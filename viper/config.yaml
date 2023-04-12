@@ -1,0 +1,15 @@
+---
+mapping:
+  - 
+    Country: "ESP"
+    Brands: 
+      - "Seat"
+    Subbrand:
+      - "Cupra"
+  - 
+    Country: "GER"
+    Brands:
+      - "Volkswagen"
+    Subbrand: 
+      - "Porsche"
+      - "Audi"
